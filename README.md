@@ -1,0 +1,1 @@
+# Enable-Log-Collection-for-VMs-and-Network-Security-Groups

@@ -1,5 +1,6 @@
 <h1>Enable Log Collection for VMs and Network Security Groups</h1>
-<b>This tutorial outlines the configuration of storage accounts, network security groups, and log analytics workspace</b>
+
+- <b>This tutorial outlines the configuration of storage accounts, network security groups, and log analytics workspace</b>
 
 <h2>Environments and Technologies Used</h2>
 
